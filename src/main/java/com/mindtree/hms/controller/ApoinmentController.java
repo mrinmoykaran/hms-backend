@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.mindtree.hms.model.Appoinment;
-import com.mindtree.hms.model.Doctor;
 import com.mindtree.hms.repository.AppoinmentRepository;
 
 @RestController

@@ -14,7 +14,7 @@
 	<name>hms-backend</name>
 	<description>Comprehensive assesment project for digital practicum internship by mindtree.ltd</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>15</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -50,7 +50,10 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+			
 		</plugins>
+		
+		
 	</build>
 
 </project>
